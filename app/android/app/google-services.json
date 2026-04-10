@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928003373109",
+    "project_id": "stylee-97181",
+    "storage_bucket": "stylee-97181.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928003373109:android:929065ab6fd3297142597c",
+        "android_client_info": {
+          "package_name": "com.example.stylee_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3g-1g5YXd6RovCwOnCv0bshqARalyXU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
